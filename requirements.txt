@@ -1,0 +1,8 @@
+flask
+librosa
+scikit-learn==1.2.2
+numpy
+pandas
+matplotlib
+seaborn
+altair
